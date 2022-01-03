@@ -18,8 +18,5 @@ This visualization template can help you analyze the key inventory KPIs:
 
 ![ER Diagram](https://user-images.githubusercontent.com/56485357/147302234-a12b781f-1368-4b06-8bb5-648106677ec7.png)
 
-
-
-
+## Interactive Dashboard (please click on the play button at the bottom left corner)
 https://user-images.githubusercontent.com/56485357/147897931-9cb85a1b-2644-46e3-9c27-bd749890e3b3.mp4
-
