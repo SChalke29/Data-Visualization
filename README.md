@@ -23,7 +23,7 @@ https://user-images.githubusercontent.com/56485357/147897931-9cb85a1b-2644-46e3-
 
 DOH = Days of Inventory on Hand = (Average inventory for the year / Cost of goods sold) x 365
 
-Analysis is done based on the **Product, Location** and **Vendor Dimensions** as below:
+Analysis is done based on the **Product, Location**, and **Vendor Dimensions** as below:
 - Product Dimensions: Product Group --> Product Category
 - Location Dimensions: Region --> Network --> Distribution Centres
 - Vendor Dimensions: Brand --> Tier --> Primary Sourcing (Domestic or Offshore)
